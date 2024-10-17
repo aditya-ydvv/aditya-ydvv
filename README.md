@@ -39,13 +39,13 @@ Results-driven Computer Science and Business Systems Engineering student with a 
 
 ### Projects
 
-- **ASL Fingerspelling Recognition**: Developed a machine learning model using transformer architecture to translate ASL fingerspelling into text.
-- **Gemma 2 Fine-Tuning**: Created notebooks demonstrating the complete process of adapting Gemma 2, including:
+- **[ASL Fingerspelling Recognition](https://github.com/aditya-ydvv/ASL-Fingerspelling-Recognition-Project)**: Developed a machine learning model using transformer architecture to translate ASL fingerspelling into text.
+- **[Gemma 2 Fine-Tuning](https://github.com/aditya-ydvv/gemma2_finetuning)**: Created notebooks demonstrating the complete process of adapting Gemma 2, including:
   - **Dataset Creation/Curation**: Explained how I crafted and curated the dataset used for fine-tuning, detailing data sources, preprocessing steps, and considerations for data quality and cultural sensitivity.
   - **Fine-tuning Gemma(ongoing)**: Provided a detailed explanation of the fine-tuning approach, including hyperparameter choices, training procedures, and techniques used to enhance performance (e.g., few-shot prompting, retrieval-augmented generation).
   - **Inference and Evaluation(ongoing)**: Demonstrated how to run inference with the fine-tuned model and discussed the evaluation of its performance.
-- **Kryptocoin**: Created a website using Flask for cryptocurrency information and transactions.
-- **Web3 Event Hosting**: Developed a platform for hosting events using Solidity.
-- **Alternative Controller for Racing Games**: Designed a custom controller system using a microcontroller and sensors to enhance the gaming experience.
+- **[Kryptocoin](https://github.com/aditya-ydvv/kryptocoin)**: Created a website using Flask for cryptocurrency information and transactions.
+- **[Web3 Event Hosting](https://github.com/aditya-ydvv/PartyUp)**: Developed a platform for hosting events using Solidity.
+- **[Alternative Controller for Racing Games](https://github.com/aditya-ydvv/RacingGame-Simulator)**: Designed a custom controller system using a microcontroller and sensors to enhance the gaming experience.
 
 Feel free to check out my repositories to learn more about my work!
