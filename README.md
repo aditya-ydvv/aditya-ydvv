@@ -2,7 +2,7 @@
 
 ## I'm a Developer and a Student at ISEP University!!
 
-[![](https://github.com/aditya-ydvv/aditya-ydvv/blob/main/img/dino.gif)](https://chromedino.com)
+[![](https://github.com/pixel3user/pixel3user/blob/main/img/dino.gif)](https://chromedino.com)
 
 ### About Me
 
