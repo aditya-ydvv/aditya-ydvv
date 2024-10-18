@@ -1,4 +1,4 @@
-# Hello there, I'm Aditya Yadav 👋 
+# Hello World, I'm Aditya Yadav 👋 
 
 ## Software Developer and Computer Science Student at ISEP Paris
 
