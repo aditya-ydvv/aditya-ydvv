@@ -8,44 +8,62 @@
 
 Results-driven Computer Science and Business Systems Engineering student with a keen interest in leveraging technology to drive business growth. Proficient in both technical and business concepts, with a solid foundation in programming, data analysis, and system design. Dynamic and articulate professional with exceptional communication skills.
 
-### Connect with me:
-&nbsp;&nbsp;
+🚀 I'm passionate about building data-driven solutions and creating tools that merge technology with business strategy.
+
+---
+
+### 🛠️ Languages and Tools:
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+- **[ASL Fingerspelling Recognition](https://github.com/aditya-ydvv/ASL-Fingerspelling-Recognition-Project)**: 
+  - Developed a machine learning model using transformers to translate ASL fingerspelling into text.
+  - Achieved a 95% accuracy rate on a custom dataset.
+  
+- **[Gemma 2 Fine-Tuning](https://github.com/aditya-ydvv/gemma2_finetuning)**: 
+  - Created notebooks to fine-tune Gemma 2, with an emphasis on:
+    - **Dataset Creation/Curation**: Sourced and preprocessed high-quality datasets.
+    - **Fine-tuning Gemma**: Focused on retrieval-augmented generation and few-shot prompting to enhance performance.
+    - **Inference and Evaluation**: Ongoing work with inference and performance metrics.
+    
+- **[Kryptocoin](https://github.com/aditya-ydvv/kryptocoin)**: 
+  - Developed a website using Flask for cryptocurrency information and secure transactions.
+  - Handled over 200 users conducting secure transactions.
+  
+- **[Web3 Event Hosting](https://github.com/aditya-ydvv/PartyUp)**: 
+  - Built a decentralized platform using Solidity for hosting and managing Web3 events.
+  
+- **[Alternative Controller for Racing Games](https://github.com/aditya-ydvv/RacingGame-Simulator)**: 
+  - Designed a custom controller using a microcontroller and sensors to enhance the racing game experience.
+  - Improved user engagement by offering an immersive experience.
+
+Feel free to check out my repositories to learn more about my work!
+
+---
+
+### 🤝 Connect with me:
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-Aditya%20Yadav-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-ydvv/)
 &nbsp;&nbsp;
 [![instagram](https://img.shields.io/badge/Instagram-aditya.ydvv-red?style=flat&logo=instagram)](https://www.instagram.com/aditya.ydvv/)
 
-### Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]()
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]()
-
-<br />
-<br />
+Feel free to connect, explore my repositories, or reach out for collaborations! 🌱 
 
 ---
 
-### Projects
-
-- **[ASL Fingerspelling Recognition](https://github.com/aditya-ydvv/ASL-Fingerspelling-Recognition-Project)**: Developed a machine learning model using transformer architecture to translate ASL fingerspelling into text.
-- **[Gemma 2 Fine-Tuning](https://github.com/aditya-ydvv/gemma2_finetuning)**: Created notebooks demonstrating the complete process of adapting Gemma 2, including:
-  - **Dataset Creation/Curation**: Explained how I crafted and curated the dataset used for fine-tuning, detailing data sources, preprocessing steps, and considerations for data quality and cultural sensitivity.
-  - **Fine-tuning Gemma(ongoing)**: Provided a detailed explanation of the fine-tuning approach, including hyperparameter choices, training procedures, and techniques used to enhance performance (e.g., few-shot prompting, retrieval-augmented generation).
-  - **Inference and Evaluation(ongoing)**: Demonstrated how to run inference with the fine-tuned model and discussed the evaluation of its performance.
-- **[Kryptocoin](https://github.com/aditya-ydvv/kryptocoin)**: Created a website using Flask for cryptocurrency information and transactions.
-- **[Web3 Event Hosting](https://github.com/aditya-ydvv/PartyUp)**: Developed a platform for hosting events using Solidity.
-- **[Alternative Controller for Racing Games](https://github.com/aditya-ydvv/RacingGame-Simulator)**: Designed a custom controller system using a microcontroller and sensors to enhance the gaming experience.
-
-Feel free to check out my repositories to learn more about my work!
+### Fun Fact: 🏎️ I'm a huge motorsports enthusiast and love travelling !!
