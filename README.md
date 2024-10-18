@@ -29,21 +29,21 @@ Results-driven Computer Science and Business Systems Engineering student with a 
 
 ### 🚀 Projects
 
-- **[ASL Fingerspelling Recognition](https://github.com/aditya-ydvv/ASL-Fingerspelling-Recognition-Project)**: 
+- **[ASL Fingerspelling Recognition Project](https://github.com/aditya-ydvv/ASL-Fingerspelling-Recognition-Project)**: 
   - Developed a machine learning model using transformers to translate ASL fingerspelling into text.
   - Achieved a 95% accuracy rate on a custom dataset.
   
-- **[Gemma 2 Fine-Tuning](https://github.com/aditya-ydvv/gemma2_finetuning)**: 
+- **[Gemma 2 Fine-Tuning Project](https://github.com/aditya-ydvv/gemma2_finetuning)**: 
   - Created notebooks to fine-tune Gemma 2, with an emphasis on:
     - **Dataset Creation/Curation**: Sourced and preprocessed high-quality datasets.
     - **Fine-tuning Gemma**: Focused on retrieval-augmented generation and few-shot prompting to enhance performance.
     - **Inference and Evaluation**: Ongoing work with inference and performance metrics.
     
-- **[Kryptocoin](https://github.com/aditya-ydvv/kryptocoin)**: 
+- **[Kryptocoin Crypto-currency Project](https://github.com/aditya-ydvv/kryptocoin)**: 
   - Developed a website using Flask for cryptocurrency information and secure transactions.
   - Handled over 200 users conducting secure transactions.
   
-- **[Web3 Event Hosting](https://github.com/aditya-ydvv/PartyUp)**: 
+- **[Web3 Event Hosting Project](https://github.com/aditya-ydvv/PartyUp)**: 
   - Built a decentralized platform using Solidity for hosting and managing Web3 events.
   
 - **[Alternative Controller for Racing Games](https://github.com/aditya-ydvv/RacingGame-Simulator)**: 
