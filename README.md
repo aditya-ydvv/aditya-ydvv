@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Yadav 👋 
 
-## I'm a Developer and a Student at ISEP University!!
+## Software Developer and Computer Science Student at ISEP Paris
 
 [![](https://github.com/pixel3user/pixel3user/blob/main/img/dino.gif)](https://chromedino.com)
 
