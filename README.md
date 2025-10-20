@@ -1,12 +1,12 @@
 # Hello World, I'm Aditya Yadav 👋 
 
-## Software Developer and Computer Science Student at ISEP Paris
+## Software Developer and Computer Science Engineer
 
 [![](https://openseauserdata.com/files/06bedfb3ed400da352159a4e4807645d.gif)](https://www.google.com/search?sca_esv=f9a00c0f19e6a508&rlz=1C1CHBF_enNZ865NZ865&sxsrf=ADLYWIIC3fIiwut8zN1XbO-f8_2r6x8UuA:1729282883622&q=futuristic+gif&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d7UNTEXOixqNTrLhjneAVuca0TjeROMWv_ilZAnvJ5vDlD-vn9cwg7RPftgG_WDRDGVjp9A93HBGt4S7BiExLrSRpYH0&udm=2&sa=X&ved=2ahUKEwiG0_nf4JiJAxWQT6QEHXUfGNwQkc0JegQICBAB&ictx=0&biw=1536&bih=776&dpr=1.25#vhid=rlEm7npQRoC1bM&vssid=mosaic)
 
 ### About Me
 
-Results-driven Computer Science and Business Systems Engineering student with a keen interest in leveraging technology to drive business growth. Proficient in both technical and business concepts, with a solid foundation in programming, data analysis, and system design. Dynamic and articulate professional with exceptional communication skills.
+Results-driven Computer Science and Business Systems Engineer with a keen interest in leveraging technology to drive business growth. Proficient in both technical and business concepts, with a solid foundation in programming, data analysis, and system design. Dynamic and articulate professional with exceptional communication skills.
 
 🚀 I'm passionate about building data-driven solutions and creating tools that merge technology with business strategy.
 
