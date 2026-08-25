@@ -1,4 +1,4 @@
-# Hello World, I'm Arun Yadav 👋 
+# Hello World, I'm Aditya Yadav 👋 
 
 ## Software Developer and Computer Science Engineer
 
